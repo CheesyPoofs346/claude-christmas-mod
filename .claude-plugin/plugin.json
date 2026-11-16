@@ -1,0 +1,6 @@
+{
+  "name": "christmas",
+  "version": "0.21.3",
+  "description": "Claude Christmas: a snowy code-tree scene behind the chat, and a live Clawd workshop above the prompt while Claude works",
+  "types": "./types/index.d.ts"
+}
